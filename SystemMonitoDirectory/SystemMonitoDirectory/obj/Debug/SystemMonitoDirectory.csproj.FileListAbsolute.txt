@@ -1,0 +1,9 @@
+C:\Users\softw\source\repos\SystemMonitoDirectory\SystemMonitoDirectory\bin\Debug\SystemMonitoDirectory.exe.config
+C:\Users\softw\source\repos\SystemMonitoDirectory\SystemMonitoDirectory\bin\Debug\SystemMonitoDirectory.exe
+C:\Users\softw\source\repos\SystemMonitoDirectory\SystemMonitoDirectory\bin\Debug\SystemMonitoDirectory.pdb
+C:\Users\softw\source\repos\SystemMonitoDirectory\SystemMonitoDirectory\obj\Debug\SystemMonitoDirectory.csproj.AssemblyReference.cache
+C:\Users\softw\source\repos\SystemMonitoDirectory\SystemMonitoDirectory\obj\Debug\SystemMonitoDirectory.ProjectInstaller.resources
+C:\Users\softw\source\repos\SystemMonitoDirectory\SystemMonitoDirectory\obj\Debug\SystemMonitoDirectory.csproj.GenerateResource.cache
+C:\Users\softw\source\repos\SystemMonitoDirectory\SystemMonitoDirectory\obj\Debug\SystemMonitoDirectory.csproj.CoreCompileInputs.cache
+C:\Users\softw\source\repos\SystemMonitoDirectory\SystemMonitoDirectory\obj\Debug\SystemMonitoDirectory.exe
+C:\Users\softw\source\repos\SystemMonitoDirectory\SystemMonitoDirectory\obj\Debug\SystemMonitoDirectory.pdb
